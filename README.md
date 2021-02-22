@@ -3,8 +3,8 @@
 <head>
 	<meta charset="utf-8"/>
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
-	<link href="css/seu-stylesheet.css" rel="stylesheet"/>
-	<script src="scripts/seu-script.js"></script>
+	
+	
 </head>
 <body>
  		<h1>Livro de Receitas</h1></br>
